@@ -3,7 +3,7 @@ package Devel::Constants;
 use strict;
 use vars qw( $VERSION %EXPORT_OK );
 
-$VERSION = '1.01';
+$VERSION = '1.02';
 
 %EXPORT_OK =
 (

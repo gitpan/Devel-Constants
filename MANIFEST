@@ -1,12 +1,12 @@
-Build.PL
-lib/Devel/Constants.pm
-Makefile.PL
-META.yml
-MANIFEST
-README
 Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/Devel/Constants.pm
 t/constants.t
 t/import.t
-t/pod.t
 t/pod-coverage.t
-META.json                                Module JSON meta-data (added by MakeMaker)
+t/pod.t

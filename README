@@ -1,30 +1,13 @@
-Devel::Constants version 1.01
-=============================
 
-This module helps to translate values back to named constants.
-Be sure to use it before you or any module you use uses the constant pragma.
 
-INSTALLATION
+This archive contains the distribution Devel-Constants,
+version 1.02:
 
-To install this module type the following:
+  translates constants back to named symbols
 
-   $ perl Build.PL
-   $ ./Build
-   $ ./Build test
-   # ./Build install
+This software is copyright (c) 2001 by chromatic.
 
-You can also use the Makefile.PL file, but I don't.
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
 
-DEPENDENCIES
 
-This module requires these other modules and libraries:
-
-  constant.pm, which ships with Perl itself
-
-COPYRIGHT AND LICENCE
-
-This program falls under the same terms as Perl itself, a combination of the
-GNU GPL and the Artistic License.  You should have received a copy of each with
-Perl.
-
-Copyright (c) 2001, 2005 chromatic, et al.
